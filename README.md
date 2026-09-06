@@ -48,43 +48,43 @@ Managing and Monitoring: • Use AWS CloudWatch: Monitor your VPC and resources 
 • Scale and adjust as needed: Adjust your VPC infrastructure to meet changing demands.
 
 # Output:
-Snapshot 1: Create VPC image
+## Snapshot 1: Create VPC image
 
 <img width="709" height="412" alt="image" src="https://github.com/user-attachments/assets/2d6f0c44-f0b1-44ea-8ab6-f4b798a6bbdf" />
 
-Snapshot 2: Configuring Subnets
+## Snapshot 2: Configuring Subnets
 
 <img width="706" height="353" alt="image" src="https://github.com/user-attachments/assets/612e50d7-ef40-4ed4-861c-d50b49083cc4" />
 
-Snapshot 3: Configure Subnets
+## Snapshot 3: Configure Subnets
 
 <img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/21941d7b-bec7-49ca-873c-6f6b76a2f9a4" />
 
-Snapshot 4: Setting Internet gateway
+## Snapshot 4: Setting Internet gateway
 
 <img width="713" height="369" alt="image" src="https://github.com/user-attachments/assets/33ef58b8-e96b-4b48-a6c9-37eae112c89b" />
 
-Snapshot 5: Creating Internet gateway
+## Snapshot 5: Creating Internet gateway
 
 <img width="1221" height="716" alt="image" src="https://github.com/user-attachments/assets/c4c4df60-adc1-4d48-a522-68765a04ccc9" />
 
-Snapshot 6: Setting Internet gateway
+## Snapshot 6: Setting Internet gateway
 
 <img width="617" height="314" alt="image" src="https://github.com/user-attachments/assets/ba8777cb-ddd7-42ee-9c1b-bfb07ccb9796" />
 
-Snapshot 7: Creating route table
+## Snapshot 7: Creating route table
 
 <img width="994" height="536" alt="image" src="https://github.com/user-attachments/assets/6f94d090-089a-473f-8696-48d993dea85a" />
 
-Snapshot 8: Configuring route table
+## Snapshot 8: Configuring route table
 
 <img width="993" height="602" alt="image" src="https://github.com/user-attachments/assets/c7d922f0-ce17-4e2f-b3f3-a2739b9db39e" />
 
-Snapshot 9: Editing routes
+## Snapshot 9: Editing routes
 
 <img width="1167" height="589" alt="image" src="https://github.com/user-attachments/assets/cb051b8b-84d6-4eed-aa82-ab6438238623" />
 
-Snapshot 10: Creating route table
+## Snapshot 10: Creating route table
 
 <img width="1171" height="591" alt="image" src="https://github.com/user-attachments/assets/8b21a7c9-0b26-4f1c-b2d0-2da62ac00f84" />
 
